@@ -1,0 +1,4 @@
+string entity_name
+string entity_namespace
+---
+bool success
