@@ -1,6 +1,7 @@
-# name of the environment
+# name of the environment (env_0, env_1....)
 
-string name
+string name 
+string file_path
 int32[] center
 int32 x_width
 int32 y_width
