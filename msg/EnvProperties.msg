@@ -1,0 +1,13 @@
+# name of the environment
+
+string name
+int32[] center
+int32 x_width
+int32 y_width
+int32 x_start
+int32 y_start
+float32 resolution
+
+# occupancy grid (flattened 1D array)
+
+int32[] grid
