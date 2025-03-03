@@ -10,5 +10,5 @@ int32 y_start
 float32 resolution
 
 # occupancy grid (flattened 1D array)
-
+int32[] grid_size
 int32[] grid
